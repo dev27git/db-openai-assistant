@@ -5,6 +5,8 @@ Examples of questions are:
 - More difficult: Is that true that top 20% customers generate 80% revenue in 2016?
 - Advanced: Forecast monthly revenue for next 12 months starting from June-2018
 
+This app requires access to Azure Open AI. Azure Open AI preview access can be requested [here](https://go.microsoft.com/fwlink/?linkid=2222006&clcid=0x409&culture=en-us). GPT-4 access can be requested [here](https://aka.ms/oai/get-gpt4)
+
 # Architecture
     
 <img width="600" alt="architecture" src="./media/flow.png">
