@@ -1,6 +1,7 @@
 # Keep this file here as azd deploy skips env files etc when deploying the app to azure
 secrets.env
 .env
+env/
 __pycache__/
 .tmp/
 .vscode/
