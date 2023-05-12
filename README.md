@@ -29,7 +29,7 @@ This app requires access to Azure Open AI. Azure Open AI preview access can be r
     - Use a question from the FAQ or enter your own question.
     - You can select ```show code``` and/or ```show prompt``` to show SQL query and the prompt behind the scene.
     - Click on submit to execute and see result.
-4. Use Data Ananalyst Assistant
+4. Use Data Analysis Assistant
     
      <img width="1159" alt="data-assistant" src="./media/img3.png">
     
