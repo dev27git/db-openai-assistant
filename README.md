@@ -48,7 +48,8 @@ We assume that your GPT-4 and CHATGPT deployments are in the same Azure Open AI 
 ## Install the application locally 
 1. Clone this repository.
 2. (Optional) Provide settings for Open AI and Database.You can either create a `secrets.env` file in the root of this folder as below or do it using the app's UI later on. 
-        ```txt
+
+
         AZURE_OPENAI_API_KEY="9999999999999999999999999"
         AZURE_OPENAI_ENDPOINT="https://openairesourcename.openai.azure.com/"
         AZURE_OPENAI_GPT4_DEPLOYMENT="NAME_OF_GPT_4_DEPLOYMENT"
@@ -60,7 +61,6 @@ We assume that your GPT-4 and CHATGPT deployments are in the same Azure Open AI 
         SNOW_DATABASE="NORTHWIND"
         SNOW_SCHEMA="PUBLIC"
         SNOW_WAREHOUSE="COMPUTE_WH"
-        ```
 
 3. Navigate to the root of the folder
 4. Create a python environment with version from 3.7 and 3.10
