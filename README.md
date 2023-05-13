@@ -7,6 +7,8 @@ Examples of questions are:
 
 This app requires access to Azure Open AI. Azure Open AI preview access can be requested [here](https://go.microsoft.com/fwlink/?linkid=2222006&clcid=0x409&culture=en-us). GPT-4 access can be requested [here](https://aka.ms/oai/get-gpt4)
 
+The app is deployed to Streamlit Cloud and can be accessed from [https://sf-openai-assistant.streamlit.app/](https://sf-openai-assistant.streamlit.app/)
+
 # Architecture
     
 <img width="600" alt="architecture" src="./media/flow.png">
