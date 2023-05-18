@@ -81,6 +81,9 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 This is an Open Source repository and not an official Microsoft or Snowflake offering. This tool is not endorsed by Microsoft or Snowflake.
 
+## Source
+This App is ported to Snowflake thanks to the Sources provided in humans.txt
+
 
 ## Trademarks 
 
